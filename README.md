@@ -40,18 +40,17 @@ The dashboard is being developed using Power BI to present business insights thr
 
 ## 📊 Dashboard Preview
 
-### 1. Market View
+### Market View
 ![Market View](images/market-view.png)
 
-### 2. Sales View
+### Sales View
 ![Sales View](images/sales-view.png)
 
-### 3. Supply Chain View
+### Supply Chain View
 ![Supply Chain View](images/supply-chain-view.png)
 
-### 4. Financial View
-![Financial View](images/financial-view.png)  
-
+### Financial View
+![Financial View](images/financial-view.png)
 ## 👨‍💻 Author
 Himanshu Maurya
 
