@@ -36,7 +36,7 @@ The dashboard is being developed using Power BI to present business insights thr
 - Interactive Filters
 
 ## 📁 Project Files
-- `Business-Sales-Analysis.pbix` – Power BI Dashboard File
+-  [Download Power BI Dashboard (.pbix)](Business-Sales-Analysis.pbix)
 
 ## 👨‍💻 Author
 Himanshu Maurya
